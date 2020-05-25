@@ -33,5 +33,7 @@ Der Webserver läuft auf Port 3000 und ist unter `localhost:3000` erreichbar.
 
 ## Weiterführende Links
 
+* https://aframe.io/
+* https://aframe.io/docs/1.0.0/introduction/
 * https://blog.mozvr.com/webxr-emulator-extension/
 * https://immersiveweb.dev/
