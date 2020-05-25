@@ -8,17 +8,17 @@ Mit dem Web Technologie Workshop _VR im Web mit A-Frame.io_ erhalten Teilnehmend
 
 Die Teilnehmenden sollten folgenden Anwendungen installiert haben:
 
-* _aktuellen_ [Firefox](https://www.mozilla.org/de/firefox/) oder [Chrome Browser](https://www.google.com/intl/de_de/chrome/)
+* _aktuellen_ [Firefox](https://www.mozilla.org/de/firefox/) oder [Chrome](https://www.google.com/intl/de_de/chrome/) Browser
 * [WebXR Extension](https://blog.mozvr.com/webxr-emulator-extension/) für den jeweiligen Browser (und gerne schonmal ausprobieren)
 * Texteditor zur Bearbeitung von HTML und JavaScript
-* [Git](https://git-scm.com/) um Repoistory zu clonen
-* [Node](https://nodejs.org/en/) um Webserver zu starten
+* [Git](https://git-scm.com/) um dieses Repoistory zu clonen
+* [Node](https://nodejs.org/en/) um einen Webserver zu starten
 
-Sollte es zu Schwierigkleiten kommen, bitte ich um kurze Rückmeldung. Dafür einfach ein Issue aufmachen oder mich per Slack anschreiben.
+Sollten Schwierigkeiten bei der Einrichtungeben, bitte ich um kurze Rückmeldung. Dafür einfach ein Issue aufmachen oder mir per Slack eine Nachricht schreiben.
 
 ## Am Workshoptag
 
-Kurz vor dem Workshop bitte nochmal das Repository pullen, um den aktuellen Stand zu erhalten.
+Kurz vor dem Workshop bitte nochmal das Repository pullen, um den aktuellen Stand zu erhalten. Weitere Details dann im Workshop.
 
 ## Lokalen Server starten
 
@@ -29,11 +29,14 @@ cd <repo-path>
 node server.js
 ```
 
-Der Webserver läuft auf Port 3000 und ist unter `localhost:3000` erreichbar.
+Der Webserver kann unter [`localhost:3000`](http://localhost:3000) aufgerufen werden.
 
 ## Weiterführende Links
 
+* https://immersiveweb.dev/
+* https://blog.mozvr.com/webxr-emulator-extension/
 * https://aframe.io/
 * https://aframe.io/docs/1.0.0/introduction/
-* https://blog.mozvr.com/webxr-emulator-extension/
-* https://immersiveweb.dev/
+* https://github.com/supermedium/superframe
+* https://developer.oculus.com/design/book-bp/
+* https://www.iso.org/standard/56350.html
