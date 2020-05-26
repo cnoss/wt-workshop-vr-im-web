@@ -2,7 +2,7 @@
 
 > VR im Web - Web Technologien - 2020 - Pascal Schorde - WebXR, VR, AR, A-Frame.io, Virtual Reality, Augmented Reality, Mixed Reality, Extended Reality, Immersive VR, Grundlagen - Informatiker, Medieninformatiker, Technologieenthusiasten - JavaScript ES 2016+, HTML5
 
-Mit dem Web Technologie Workshop _VR im Web mit A-Frame.io_ erhalten Teilnehmende einen Einblick inwieweit Webanwendungen für verschiedene VR Technologien umgesetzt werden kann. Unter Zuhilfenahme des A-Frame.io Webframework, speziell entwickelt für VR Anwendungen, werden den Teilnehmenden grundlegende Funktionen für die Entwicklung eigener VR fähigen Webanwendungen.
+Mit dem Web Technologie Workshop _VR im Web_ erhalten Teilnehmende einen Einblick in die Erstellung von Webanwendungen für VR Technologien. Neben einer Einführung in das Paradigma Extended Reality (XR), die Gründe für eine neue Webspezifikation (Web VR -> WebXR Device API) und Anforderungen sowie Herausforderungen an VR Anwendungen, werden unter Zuhilfenahme des A-Frame.io Webframework - ein speziell für VR Anwendungen konzipiertes Framework - eigene kleine Szenen entworfen. Am Ende des Workshops sind die Teilnehmenden bzgl. VR sensibilisiert und können darauf aufbauend sich selbstsändig in das Thema _VR im Web_ vertiefen.
 
 ## Vorbereitung
 
