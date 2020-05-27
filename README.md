@@ -14,7 +14,7 @@ Die Teilnehmenden sollten folgenden Anwendungen installiert haben:
 * [Git](https://git-scm.com/) um das [Repoistory](https://github.com/p2sk/wt-workshop-vr-im-web) zu clonen
 * [Node](https://nodejs.org/en/) um den Webserver zu starten
 
-Sollten Schwierigkeiten bei der Einrichtungeben, bitte ich um kurze Rückmeldung. Dafür einfach ein Issue aufmachen oder mir per Slack eine Nachricht schreiben.
+Sollten Schwierigkeiten bei der Einrichtung auftreten, bitte ich um kurze Rückmeldung. Dafür einfach ein Issue aufmachen oder mir per Slack eine Nachricht schreiben.
 
 ## Am Workshoptag
 
