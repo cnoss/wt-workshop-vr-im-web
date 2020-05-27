@@ -2,17 +2,17 @@
 
 > VR im Web - Web Technologien - 2020 - Pascal Schorde - WebXR, VR, AR, A-Frame.io, Virtual Reality, Augmented Reality, Mixed Reality, Extended Reality, Immersive VR, Grundlagen - Informatiker, Medieninformatiker, Technologieenthusiasten - JavaScript ES 2016+, HTML5
 
-Mit dem Web Technologie Workshop _VR im Web_ erhalten Teilnehmende einen Einblick in die Erstellung von Webanwendungen für VR Technologien. Neben einer Einführung in das Paradigma Extended Reality (XR), die Gründe für eine neue Webspezifikation (Web VR -> WebXR Device API) und Anforderungen sowie Herausforderungen an VR Anwendungen, werden unter Zuhilfenahme des A-Frame.io Webframework - ein speziell für VR Anwendungen konzipiertes Framework - eigene kleine Szenen entworfen. Am Ende des Workshops sind die Teilnehmenden bzgl. VR sensibilisiert und können darauf aufbauend sich selbstsändig in das Thema _VR im Web_ vertiefen.
+Mit dem Web Technologie Workshop _VR im Web_ erhalten Teilnehmende einen Einblick in die Erstellung von Webanwendungen für VR Technologien. Neben einer Einführung in das Paradigma Extended Reality (XR), die Gründe für eine neue Webspezifikation (Web VR -> WebXR Device API) und Anforderungen sowie Herausforderungen an VR Anwendungen, werden unter Zuhilfenahme des A-Frame.io Webframeworks - ein speziell für VR Anwendungen konzipiertes Framework - eine eigene kleine Szenen entworfen. Am Ende des Workshops sind die Teilnehmenden bzgl. VR sensibilisiert und können darauf aufbauend sich selbstsändig in das Thema _VR im Web_ vertiefen.
 
 ## Vorbereitung
 
 Die Teilnehmenden sollten folgenden Anwendungen installiert haben:
 
 * _aktuellen_ [Firefox](https://www.mozilla.org/de/firefox/) oder [Chrome](https://www.google.com/intl/de_de/chrome/) Browser
-* [WebXR Extension](https://blog.mozvr.com/webxr-emulator-extension/) für den jeweiligen Browser (und gerne schonmal ausprobieren)
-* Texteditor zur Bearbeitung von HTML und JavaScript
-* [Git](https://git-scm.com/) um dieses Repoistory zu clonen
-* [Node](https://nodejs.org/en/) um einen Webserver zu starten
+* [WebXR Extension](https://blog.mozvr.com/webxr-emulator-extension/) für den jeweiligen Browser installieren
+* Texteditor für die Bearbeitung von HTML und JavaScript
+* [Git](https://git-scm.com/) um das [Repoistory](https://github.com/p2sk/wt-workshop-vr-im-web) zu clonen
+* [Node](https://nodejs.org/en/) um den Webserver zu starten
 
 Sollten Schwierigkeiten bei der Einrichtungeben, bitte ich um kurze Rückmeldung. Dafür einfach ein Issue aufmachen oder mir per Slack eine Nachricht schreiben.
 
